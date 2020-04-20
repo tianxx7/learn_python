@@ -1,0 +1,5 @@
+matplot
+numpy
+pandas
+tables
+jupyter
