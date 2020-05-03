@@ -8,6 +8,8 @@ python学习
 
 ```
 pip install jupyter
+#在jupyter中安装包
+!pip install aiohttp
 ```
 
 ### 2.虚拟环境的安装
